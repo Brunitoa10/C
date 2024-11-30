@@ -5,6 +5,7 @@ calcula una nueva matriz C de tama ̃no m × p. En esta nueva matriz, cada eleme
 en la fila i, columna j, est ́a determinado por ci,j = ai,1 × b1,j + ai,2 × b2,j + · · · + ai,k × bk,j
 donde ai,j son los elementos de la matriz A y bi,j son los elementos de la matriz B, con 1 ≤ i ≤ m, 1 ≤ j ≤ p, 1 ≤ k ≤ n
 Dada una estructura de datos
+
 typedef struct {
   double **elementos;
   unsigned int filas;
