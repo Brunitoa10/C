@@ -1,0 +1,13 @@
+# Binarios
+*.exe
+*.out
+*.bin
+*.o
+*.d
+
+# Archivos de Code::Blocks
+*.layout
+*.depend
+*.cbp
+bin/
+obj/
