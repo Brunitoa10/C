@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1741295396 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\inventario_items\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1741295310 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\inventario_items\funciones.h
+	<stdio.h>
+	<stdlib.h>
+

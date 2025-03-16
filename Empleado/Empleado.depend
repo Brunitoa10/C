@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1742075054 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\estadocivil.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"EstadoCivil.h"
+	"Errores.h"
+
+1742072503 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\estadocivil.h
+
+1742067685 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\errores.h
+
+1742074622 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\nivelestudio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"NivelEstudios.h"
+	"Errores.h"
+
+1742074527 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\nivelestudios.h
+
+1742073503 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\sexo.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Sexo.h"
+	"Errores.h"
+
+1742073415 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\sexo.h
+
+1742072326 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1742073983 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\empleado.h
+	"Domicilio.h"
+	"Sexo.h"
+	"EstadoCivil.h"
+	"NivelEstudios.h"
+
+1742074235 c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\domicilio.h
+
+1742074758 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\domicilio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Domicilio.h"
+	"Errores.h"
+
+1742075025 source:c:\users\bruno ariel parisi\downloads\finalorga\finales\c\empleado\empleado.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"Empleado.h"
+	"Errores.h"
+
