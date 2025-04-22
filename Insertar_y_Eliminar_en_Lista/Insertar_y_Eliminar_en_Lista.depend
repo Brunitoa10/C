@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1744139454 source:/home/bruno/Documentos/Trabajo/C/Insertar_y_Eliminar_en_Lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
